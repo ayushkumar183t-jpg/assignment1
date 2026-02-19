@@ -10,4 +10,5 @@ print('subtraction is:',subtraction)
 print('multiplication is:',multiplication)
 print('division is:',division)
 print("thank you for using my program")
-input(" ")
+
+input("press the  ")
